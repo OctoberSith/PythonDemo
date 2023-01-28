@@ -1,9 +1,9 @@
 # Python Console Demo
+ A console program to return various data from the VAERS public data
 
-## A console program to return various data from the VAERS public data
-
-## Tech Stack
+# Tech Stack
 - Python
 - Pandas
 
-# MIT License
+# License
+MIT License
