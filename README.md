@@ -5,3 +5,5 @@
 ## Tech Stack
 - Python
 - Pandas
+
+# MIT License
